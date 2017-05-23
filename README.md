@@ -3,6 +3,7 @@ The following are some resources for students interested in making a start in pr
 
 Resources
 =========
+The following should shed some light on the actual meaning of 'hacker', rather than the negative connotation it receives in the media.
 * How to become a hacker - http://www.catb.org/~esr/faqs/hacker-howto.html
 
 Programming
